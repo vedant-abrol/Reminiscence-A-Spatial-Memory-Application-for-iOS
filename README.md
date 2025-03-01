@@ -5,7 +5,8 @@
 Reminiscence is a sophisticated iOS application designed to associate memories with locations, creating a rich, location-aware personal journal. The app allows users to capture moments in their lives and tie them to specific places, enabling a unique way to reminisce and rediscover experiences through both time and space.
 
 
-![Image](https://github.com/user-attachments/assets/00fccbb7-0a95-4010-b1d4-9c716ffcb958)
+https://github.com/user-attachments/assets/4400ad94-01e3-4461-98a4-e1a429fd5f91
+
 
 ![Reminiscence App Logo](path/to/app-logo.png)
 

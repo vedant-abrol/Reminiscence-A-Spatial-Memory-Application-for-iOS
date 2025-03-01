@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Spatial Memory needs your location to associate memories with places and notify you when you return to them.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Spatial Memory needs your location in the background to detect when you return to a place with memories, even when the app is closed.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Spatial Memory needs your location in the background to detect when you return to a place with memories, even when the app is closed.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Spatial Memory needs access to your camera to create photo memories.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Spatial Memory needs microphone access to record audio memories.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Spatial Memory needs access to your photo library to attach existing photos to memories.</string>
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>location</string>
+        <string>processing</string>
+    </array>
+</dict>
+</plist> 
